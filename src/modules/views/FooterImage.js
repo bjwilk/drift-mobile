@@ -1,5 +1,4 @@
 import React from 'react'
-import footer from '../../assests/DriftImg2.jpeg'
 
 
 function FooterImage(){
