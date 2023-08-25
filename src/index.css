@@ -41,7 +41,7 @@ button {
   background-size: cover;
   background-position: center;
   width: 100vw;
-  height: 100vw;
+  height: 70vw;
   /* margin-left: 25%; */
 }
 
@@ -51,7 +51,7 @@ button {
   background-size: cover;
   background-position: center;
   width: 100vw;
-  height: 275px;
+  height: 225px;
 }
 
 /* Additional styling for larger screens (laptops, desktops) */
