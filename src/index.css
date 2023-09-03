@@ -19,11 +19,21 @@ code {
   font-size: 24px; /* Adjust the font size as needed */
   color: greenyellow; /* Specify the color without quotes */
   background-color: #161B22;
+  padding: 20px; /* Add some padding for better mobile readability */
+  text-align: center; /* Center text on smaller screens */
 }
 
 .phone-link {
   color: #FFCC00; /* Specify the color for the phone number */
   text-decoration: underline; /* Underline the phone number */
+}
+
+/* Media Query for Mobile Devices */
+@media (max-width: 768px) {
+  #call {
+    font-size: 18px; /* Adjust font size for smaller screens */
+    padding: 10px; /* Reduce padding on smaller screens */
+  }
 }
 
 
